@@ -17,7 +17,7 @@ An interactive and lightweight **Web-based Chatbot** designed to handle hotel ro
 
 ## 🛠️ Tech Stack
 
-* **Backend:** [Python 3.x](https://www.python.org/)
+* **Backend:** [Python 3.12](https://www.python.org/)
 * **Framework:** [Flask](https://flask.palletsprojects.com/)
 * **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
 
